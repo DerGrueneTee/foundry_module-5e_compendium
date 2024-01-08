@@ -7,7 +7,7 @@
       "name": "DerGrueneTee"
     }
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packs": [
     {
       "name": "monster",
@@ -20,12 +20,6 @@
       "label": "Magische Gegenstände",
       "system": "dnd5e",
       "type": "Items"
-    },
-    {
-      "name": "scenes",
-      "label": "Szenen",
-      "system": "dnd5e",
-      "type": "Scenes"
     }
   ]
 }
