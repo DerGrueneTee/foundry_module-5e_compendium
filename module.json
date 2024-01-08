@@ -7,7 +7,7 @@
       "name": "DerGrueneTee"
     }
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packs": [
     {
       "name": "monster",
@@ -28,5 +28,5 @@
       "type": "Scene"
     }
   ],
-  "download": "https://github.com/DerGrueneTee/foundry_module-5e_compendium/releases/tag/latest/module.zip"
+  "download": "https://github.com/DerGrueneTee/foundry_module-5e_compendium/releases/download/latest/module.zip"
 }
