@@ -1,0 +1,31 @@
+{
+  "id": "5e-compendium",
+  "title": "DnD 5e Compendia",
+  "description": "General compendia for DnD 5e, containing e.g. Monsters, Items, Spells",
+  "authors": [
+    {
+      "name": "DerGrueneTee"
+    }
+  ],
+  "version": "0.0.1",
+  "packs": [
+    {
+      "name": "monster",
+      "label": "Monster",
+      "system": "dnd5e",
+      "type": "Actors"
+    },
+    {
+      "name": "magical-items",
+      "label": "Magische Gegenstände",
+      "system": "dnd5e",
+      "type": "Items"
+    },
+    {
+      "name": "scenes",
+      "label": "Szenen",
+      "system": "dnd5e",
+      "type": "Scenes"
+    }
+  ]
+}
