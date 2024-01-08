@@ -7,19 +7,25 @@
       "name": "DerGrueneTee"
     }
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packs": [
     {
       "name": "monster",
       "label": "Monster",
       "system": "dnd5e",
-      "type": "Actors"
+      "type": "Actor"
     },
     {
       "name": "magical-items",
       "label": "Magische Gegenstände",
       "system": "dnd5e",
-      "type": "Items"
+      "type": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "Szenen",
+      "system": "dnd5e",
+      "type": "Scene"
     }
   ]
 }
