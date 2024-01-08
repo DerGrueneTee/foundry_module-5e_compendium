@@ -7,25 +7,26 @@
       "name": "DerGrueneTee"
     }
   ],
-  "version": "0.0.1",
+  "version": "0.0.4",
   "packs": [
     {
       "name": "monster",
       "label": "Monster",
       "system": "dnd5e",
-      "type": "Actors"
+      "type": "Actor"
     },
     {
       "name": "magical-items",
       "label": "Magische Gegenstände",
       "system": "dnd5e",
-      "type": "Items"
+      "type": "Item"
     },
     {
       "name": "scenes",
       "label": "Szenen",
       "system": "dnd5e",
-      "type": "Scenes"
+      "type": "Scene"
     }
-  ]
+  ],
+  "download": "https://github.com/DerGrueneTee/foundry_module-5e_compendium/releases/tag/latest/module.zip"
 }
