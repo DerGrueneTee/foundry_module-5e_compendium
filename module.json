@@ -1,13 +1,18 @@
 {
   "id": "5e-compendium",
-  "title": "DnD 5e Compendia",
-  "description": "General compendia for DnD 5e, containing e.g. Monsters, Items, Spells",
+  "title": "DnD 5e Exchange Compendia",
+  "description": "General compendia for DnD 5e to exchange e.g. Monsters, Items, Spells",
   "authors": [
     {
       "name": "DerGrueneTee"
     }
   ],
-  "version": "0.0.5",
+  "version": "0.0.6",
+
+  "minimumCoreVersion": "11",
+  "compatibility": {
+    "minimum": "11"
+  },
   "packs": [
     {
       "name": "monster",
@@ -28,5 +33,16 @@
       "type": "Scene"
     }
   ],
+  "packFolders": [
+    {
+      "name": "Exchange",
+      "packs": [
+        "monster",
+        "magical-items",
+        "scenes"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/DerGrueneTee/foundry_module-5e_compendium/releases/download/latest/module.json",
   "download": "https://github.com/DerGrueneTee/foundry_module-5e_compendium/releases/download/latest/module.zip"
 }
